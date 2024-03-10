@@ -1,0 +1,6 @@
+name: HsCoolDown
+version: '${project.version}'
+main: test.hscooldown.HSCoolDown
+api-version: '1.19'
+commands:
+  커스텀쿨리셋:
